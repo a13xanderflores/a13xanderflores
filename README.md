@@ -84,16 +84,6 @@ Un emocionante juego desarrollado en Python usando Pygame. ¡Visita el repositor
 
 ---
 
-
-## 🌟 Innovación y Creatividad
-
-### **Proyecto en Desarrollo: Juego Multijugador en Línea**
-Actualmente estoy trabajando en un emocionante proyecto de un juego multijugador en línea. Aquí tienes una vista previa:
-
-![Juego Multijugador](https://i.ibb.co/jgd4qgZ/juego-multijugador.png)
-
----
-
 ### **Herramientas que Uso**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
