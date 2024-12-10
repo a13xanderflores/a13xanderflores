@@ -16,9 +16,9 @@ Un juego simple pero divertido desarrollado en C++ usando SDL2.
 ---
 
 ### **Sitio Web Personal**
-Mi portafolio personal creado con HTML, CSS y un poco de JavaScript.
+Mi portafolio personal creado con HTML, CSS y un poco de JavaScript. Visita mi sitio web [aquí](https://a13xanderplatz.neocities.org/).
 
-[![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](enlace)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](https://a13xanderplatz.neocities.org/)
 
 ![Sitio Web](https://via.placeholder.com/400x200?text=Captura+de+pantalla+del+sitio)
 
@@ -80,7 +80,7 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 ## 🎨 Proyectos Visuales
 
 [![Juego en C++](https://img.shields.io/badge/Juego_C%2B%2B-Ver_Demo-brightgreen?style=for-the-badge)](enlace)
-[![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](enlace)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](https://a13xanderplatz.neocities.org/)
 
 ---
 
@@ -129,6 +129,8 @@ Actualmente estoy trabajando en un emocionante proyecto de un juego multijugador
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nz_vera)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderfloresperfil/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tuusuario)
 
 ---
 
