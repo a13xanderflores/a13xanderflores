@@ -16,11 +16,12 @@ Un juego simple pero divertido desarrollado en C++ usando SDL2.
 ---
 
 ### **Sitio Web Personal**
+
 Mi portafolio personal creado con HTML, CSS y un poco de JavaScript. Visita mi sitio web [aquí](https://a13xanderplatz.neocities.org/).
 
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](https://a13xanderplatz.neocities.org/)
 
-![Sitio Web](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hostinger.es%2Ftutoriales%2Fejemplos-paginas-web-personales&psig=AOvVaw21uuzJtihl2FC1K7KM6b2M&ust=1733940494559000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIij5fDlnYoDFQAAAAAdAAAAABAE) <!-- Enlace correcto de la imagen -->
+![Sitio Web](https://ibb.co/y4QYWWV)
 
 ---
 
