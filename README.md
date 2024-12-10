@@ -31,7 +31,7 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 - Twitter: [@nz_vera](https://x.com/nz_vera)
 
 ## 📊 GitHub Stats
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&theme=dark)
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=a13xanderflores&show_icons=true&theme=dark)
 
 ## 🎨 Proyectos Visuales
 [![Juego en C++](https://img.shields.io/badge/Juego_C%2B%2B-Ver_Demo-brightgreen?style=for-the-badge)](enlace)
