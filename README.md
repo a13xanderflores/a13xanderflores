@@ -20,7 +20,7 @@ Mi portafolio personal creado con HTML, CSS y un poco de JavaScript. Visita mi s
 
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](https://a13xanderplatz.neocities.org/)
 
-![Sitio Web](https://i.ibb.co/jgd4qgZ/sitio-web.png)
+![Sitio Web](https://ibb.co/y4QYWWV)
 
 ---
 
