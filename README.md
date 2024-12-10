@@ -25,14 +25,6 @@ Mi portafolio personal creado con HTML, CSS y un poco de JavaScript. Visita mi s
 
 ---
 
-### **Script en Python**
-Una herramienta para automatizar tareas diarias.
-
-[![Script en Python](https://img.shields.io/badge/Script_Python-Ver_Código-orange?style=for-the-badge)](enlace)
-
-![Script en Python](https://i.ibb.co/jgd4qgZ/script-python.png)
-
----
 
 ### **Videojuego en Pygame**
 Un emocionante juego desarrollado en Python usando Pygame. ¡Visita el repositorio [aquí](https://github.com/a13xanderflores/pygame-video-juego)!
