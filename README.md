@@ -9,9 +9,9 @@ Soy un desarrollador apasionado por la programación y los videojuegos. Actualme
 ### **Juego en C++**
 Un juego simple pero divertido desarrollado en C++ usando SDL2.
 
-[![Juego en C++]([https://ibb.co/jgd4qgZ](https://img.shields.io/badge/Juego_C%2B%2B-Ver_Demo-brightgreen?style=for-the-badge))](enlace)
+[![Juego en C++](https://img.shields.io/badge/Juego_C%2B%2B-Ver_Demo-brightgreen?style=for-the-badge)](enlace)
 
-![Juego en C++]([https://ibb.co/jgd4qgZ](https://via.placeholder.com/400x200?text=Captura+de+pantalla+del+juego))
+![Juego en C++](https://i.ibb.co/jgd4qgZ/juego-cpp.png)
 
 ---
 
@@ -20,7 +20,7 @@ Mi portafolio personal creado con HTML, CSS y un poco de JavaScript. Visita mi s
 
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](https://a13xanderplatz.neocities.org/)
 
-![Sitio Web](https://via.placeholder.com/400x200?text=Captura+de+pantalla+del+sitio)
+![Sitio Web](https://i.ibb.co/jgd4qgZ/sitio-web.png)
 
 ---
 
@@ -29,7 +29,7 @@ Una herramienta para automatizar tareas diarias.
 
 [![Script en Python](https://img.shields.io/badge/Script_Python-Ver_Código-orange?style=for-the-badge)](enlace)
 
-![Script en Python](https://via.placeholder.com/400x200?text=Captura+de+pantalla+del+script)
+![Script en Python](https://i.ibb.co/jgd4qgZ/script-python.png)
 
 ---
 
@@ -51,7 +51,7 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 - **Juego de disparos en primera persona** en Python con Pygame.
 - **Juego multijugador en línea** en desarrollo.
 
-![Juego de plataformas 2D](https://via.placeholder.com/400x200?text=Captura+de+pantalla+del+juego+2D)
+![Juego de plataformas 2D](https://i.ibb.co/jgd4qgZ/juego-2d.png)
 
 ---
 
@@ -99,7 +99,7 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 ### **Proyecto en Desarrollo: Juego Multijugador en Línea**
 Actualmente estoy trabajando en un emocionante proyecto de un juego multijugador en línea. Aquí tienes una vista previa:
 
-![Juego Multijugador](https://via.placeholder.com/400x200?text=Vista+previa+del+juego+multijugador)
+![Juego Multijugador](https://i.ibb.co/jgd4qgZ/juego-multijugador.png)
 
 ---
 
