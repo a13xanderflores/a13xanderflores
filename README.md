@@ -33,6 +33,15 @@ Una herramienta para automatizar tareas diarias.
 
 ---
 
+### **Videojuego en Pygame**
+Un emocionante juego desarrollado en Python usando Pygame. ¡Visita el repositorio [aquí](https://github.com/a13xanderflores/pygame-video-juego)!
+
+[![Videojuego en Pygame](https://img.shields.io/badge/Videojuego_Pygame-Ver_Código-red?style=for-the-badge)](https://github.com/a13xanderflores/pygame-video-juego)
+
+![Videojuego en Pygame](https://i.ibb.co/jgd4qgZ/videojuego-pygame.png)
+
+---
+
 ## 🛠️ Habilidades
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -81,6 +90,7 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 
 [![Juego en C++](https://img.shields.io/badge/Juego_C%2B%2B-Ver_Demo-brightgreen?style=for-the-badge)](enlace)
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](https://a13xanderplatz.neocities.org/)
+[![Videojuego en Pygame](https://img.shields.io/badge/Videojuego_Pygame-Ver_Código-red?style=for-the-badge)](https://github.com/a13xanderflores/pygame-video-juego)
 
 ---
 
@@ -91,6 +101,9 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 
 ### **Sitio Web Personal**
 [![Sitio Web](https://img.shields.io/badge/Ver_Video-Sitio_Web-red?style=for-the-badge)](enlace)
+
+### **Videojuego en Pygame**
+[![Videojuego en Pygame](https://img.shields.io/badge/Ver_Video-Videojuego_Pygame-red?style=for-the-badge)](enlace)
 
 ---
 
