@@ -9,9 +9,9 @@ Soy un desarrollador apasionado por la programación y los videojuegos. Actualme
 ### **Juego en C++**
 Un juego simple pero divertido desarrollado en C++ usando SDL2.
 
-[![Juego en C++](https://ibb.co/jgd4qgZ)](enlace)
+[![Juego en C++]([https://ibb.co/jgd4qgZ](https://img.shields.io/badge/Juego_C%2B%2B-Ver_Demo-brightgreen?style=for-the-badge))](enlace)
 
-![Juego en C++](https://via.placeholder.com/400x200?text=Captura+de+pantalla+del+juego)
+![Juego en C++](https://ibb.co/jgd4qgZ)
 
 ---
 
