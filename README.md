@@ -14,7 +14,6 @@ Un juego simple pero divertido desarrollado en C++ usando SDL2.
 ![Juego en C++](https://i.ibb.co/jgd4qgZ/juego-cpp.png)
 
 ---
-
 ### **Sitio Web Personal**
 Mi portafolio personal creado con HTML, CSS y un poco de JavaScript. Visita mi sitio web [aquí](https://a13xanderplatz.neocities.org/).
 
