@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy A13XANDER! 👋
 
 Soy un desarrollador apasionado por la programación y los videojuegos. Actualmente trabajo con tecnologías como C++, Python y HTML, y disfruto creando experiencias interactivas y divertidas.
 
@@ -27,8 +27,8 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 
 ## 📫 Contacto
 - Email: a13xanderplatz10@outlook.com.ar
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/alexanderfloresperfil/)
-- Twitter: [@TuUsuario](https://x.com/nz_vera)
+- LinkedIn: [a13xanderfloresperfil](https://www.linkedin.com/in/alexanderfloresperfil/)
+- Twitter: [@nz_vera](https://x.com/nz_vera)
 
 ## 📊 GitHub Stats
 ![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&theme=dark)
