@@ -83,18 +83,6 @@ Un emocionante juego desarrollado en Python usando Pygame. ¡Visita el repositor
 
 ---
 
-## 🎥 Demostraciones en Video
-
-### **Juego en C++**
-[![Juego en C++](https://img.shields.io/badge/Ver_Video-Juego_C%2B%2B-red?style=for-the-badge)](enlace)
-
-### **Sitio Web Personal**
-[![Sitio Web](https://img.shields.io/badge/Ver_Video-Sitio_Web-red?style=for-the-badge)](enlace)
-
-### **Videojuego en Pygame**
-[![Videojuego en Pygame](https://img.shields.io/badge/Ver_Video-Videojuego_Pygame-red?style=for-the-badge)](enlace)
-
----
 
 ## 🌟 Innovación y Creatividad
 
