@@ -94,4 +94,42 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 
 ---
 
+## 🌟 Innovación y Creatividad
+
+### **Proyecto en Desarrollo: Juego Multijugador en Línea**
+Actualmente estoy trabajando en un emocionante proyecto de un juego multijugador en línea. Aquí tienes una vista previa:
+
+![Juego Multijugador](https://via.placeholder.com/400x200?text=Vista+previa+del+juego+multijugador)
+
+---
+
+### **Herramientas que Uso**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+## 📈 Gráficos de Contribuciones
+
+![Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=a13xanderflores&theme=dark)
+
+---
+
+## 🎮 Juegos que Me Inspiran
+
+- **The Legend of Zelda: Breath of the Wild**
+- **Minecraft**
+- **Super Mario Odyssey**
+
+---
+
+## 🌐 Redes Sociales
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nz_vera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderfloresperfil/)
+
+---
+
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
