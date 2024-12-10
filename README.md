@@ -35,7 +35,7 @@ Me encanta explorar el mundo de los videojuegos y crear experiencias únicas. Al
 
 ## 🎨 Proyectos Visuales
 [![Juego en C++](https://img.shields.io/badge/Juego_C%2B%2B-Ver_Demo-brightgreen?style=for-the-badge)](enlace)
-[![Sitio Web](https://img.shields.io/badge/Sitio_Web-Visitar-blue?style=for-the-badge)](enlace)
+[![Sitio Web](https://a13xanderplatz.neocities.org/)](enlace)
 
 ---
 
